@@ -1,0 +1,7 @@
+n=int(input("enter no:"))
+d=int(input("enter digit:"))
+str1=str()
+str2=str()
+str1=str(n)
+str2=str(d)
+print(str1.count(str2))
